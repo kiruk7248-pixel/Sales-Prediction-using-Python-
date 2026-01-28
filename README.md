@@ -23,4 +23,6 @@ To forecast sales and help businesses make data-driven decisions.
 - Model performance evaluated using R² Score and MAE
 
 ## Internship
-*CodeAlpha – Data Science Internship*
+- Company: Code Alpha  
+- Domain: Data Science
+
